@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+aiogram
+openai
+python-dotenv
